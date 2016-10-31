@@ -57,5 +57,40 @@
                 android:hint="@string/ciclo_abreviatura"
                 android:id="@+id/editTextCicloAbreviatura"/>
         </android.support.design.widget.TextInputLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="9"
+                android:id="@+id/image_view_ciclo"
+                android:src="@drawable/ic_face_black_24dp"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <ImageButton
+                    android:layout_width="75dp"
+                    android:layout_height="75dp"
+                    android:src="@drawable/ic_camera_alt_black_24dp"
+                    android:id="@+id/buttonCamara"/>
+
+                <ImageButton
+                    android:layout_width="75dp"
+                    android:layout_height="75dp"
+                    android:src="@drawable/ic_attach_file_black_24dp"
+                    android:id="@+id/buttonImagenDeGaleria"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
     </LinearLayout>
 </android.support.design.widget.CoordinatorLayout>
