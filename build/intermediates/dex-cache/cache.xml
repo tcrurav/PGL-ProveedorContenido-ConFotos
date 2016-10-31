@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a71f2bfb40e3e8b589e5165ce2f667973c2b6f9f">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_accdc11f7f5812f494983f8b68d676469d9dd98a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -21,30 +30,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_d1d0401195e2ac26bb0101eadabdc61210ad4611\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5f4d8aa4e1996041e3fac46f8659ae5171a9b8bd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1bb558f0a2a14475188854a64c73a264089923aa">
-        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6cfa2ebc2d52daaaaeb0c2c38fb722c2b4fb0d3b\classes.dex" />
+        revision="22.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ab50f84acda3c7c3522cd01c2356b80559b29144\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -57,19 +48,82 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9c32b8cd621cfe8d6d7162d22a56b4490336ab2f\classes.dex" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4a1e03c71d1838704627961752df8f841519f47f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5f4d8aa4e1996041e3fac46f8659ae5171a9b8bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_8c6738af459dea6fd6629b05bde9944bb6e7c317\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tiburcio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_96790d0cb52e21815b77f4591a97d0dcbe414fe5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c8501b39823bafedb637bdad86ff597c57bb686d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4a1e03c71d1838704627961752df8f841519f47f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_af3d925dc6de320f670c0268f4bee38100823e8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_281a467aa9053ec4f74537009c896997c0798657\classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
+        revision="22.0.1"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
         <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_de21b69a3e5b5a3e16ce6e241007a66bf378a38e\classes.dex" />
     </item>
@@ -84,39 +138,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ab50f84acda3c7c3522cd01c2356b80559b29144\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
         <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_281a467aa9053ec4f74537009c896997c0798657\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4a1e03c71d1838704627961752df8f841519f47f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_af3d925dc6de320f670c0268f4bee38100823e8e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -138,21 +165,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="e03634c7793596d78d0ef36908b888b0c4005189">
-        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_accdc11f7f5812f494983f8b68d676469d9dd98a\classes.dex" />
+        revision="22.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_312ff5f69e8dab78f40843175ea392ef3badc5f3\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_9e0902fb06983d83611ee17df1b99516371ae653\classes.dex" />
+        revision="22.0.1"
+        sha1="49c3fd940c1d236ca0d7d8eef9f274a1a3288fb0">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6cfa2ebc2d52daaaaeb0c2c38fb722c2b4fb0d3b\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -162,6 +189,69 @@
         revision="24.0.3"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
         <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c8501b39823bafedb637bdad86ff597c57bb686d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9c32b8cd621cfe8d6d7162d22a56b4490336ab2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5f4d8aa4e1996041e3fac46f8659ae5171a9b8bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="49c3fd940c1d236ca0d7d8eef9f274a1a3288fb0">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6cfa2ebc2d52daaaaeb0c2c38fb722c2b4fb0d3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9c32b8cd621cfe8d6d7162d22a56b4490336ab2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_52701a19939619a6f6d0d6421aa734e8c141f765\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_af3d925dc6de320f670c0268f4bee38100823e8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_9e0902fb06983d83611ee17df1b99516371ae653\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -180,6 +270,96 @@
         revision="24.0.3"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
         <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a489c30144ffa01227ce456bdc2054cb2c16cfd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_d1d0401195e2ac26bb0101eadabdc61210ad4611\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_ff65933468c6f05b2d658e07cf0d28036bbf809c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_de21b69a3e5b5a3e16ce6e241007a66bf378a38e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_d1d0401195e2ac26bb0101eadabdc61210ad4611\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ab50f84acda3c7c3522cd01c2356b80559b29144\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a489c30144ffa01227ce456bdc2054cb2c16cfd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_c23a10563a15b2a4a8dc1ce2ce4fa7d32bc35d81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a71f2bfb40e3e8b589e5165ce2f667973c2b6f9f">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_accdc11f7f5812f494983f8b68d676469d9dd98a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_9e0902fb06983d83611ee17df1b99516371ae653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\PGL-ProveedorContenido-ConFotos\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_4caba7360806e3caa1d0114c3ff2c0feb3a18085\classes.dex" />
     </item>
 
 </items>
