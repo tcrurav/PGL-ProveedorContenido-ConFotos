@@ -41,11 +41,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="88" column="5" selection-start-line="81" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
+            <state relative-caret-position="323">
+              <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
               <folding>
                 <element signature="e#1707#1852#0" expanded="true" />
                 <element signature="e#1851#1852#0" expanded="true" />
@@ -59,25 +59,19 @@
       <file leaf-file-name="Utilidades.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/constantes/Utilidades.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ciclo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/pojos/Ciclo.java">
+      <file leaf-file-name="G.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/constantes/G.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1189#1190#0" expanded="true" />
-                <element signature="e#1218#1219#0" expanded="true" />
-                <element signature="e#1262#1263#0" expanded="true" />
-                <element signature="e#1298#1299#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -130,7 +124,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CicloActualizacionActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CicloActualizacionActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/ciclo/CicloActualizacionActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2295">
@@ -148,7 +142,7 @@
       <file leaf-file-name="CicloProveedor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/proveedor/CicloProveedor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="146">
               <caret line="55" column="105" selection-start-line="55" selection-start-column="105" selection-end-line="55" selection-end-column="105" />
               <folding />
             </state>
@@ -1927,17 +1921,17 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/proveedor/Contrato.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/proveedor/ProveedorDeContenido.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/pojos/Ciclo.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/ciclo/CicloListFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_ciclo_detalle.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/constantes/Utilidades.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/ciclo/CicloInsercionActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/proveedor/CicloProveedor.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/ciclo/CicloActualizacionActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/constantes/Utilidades.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -2470,7 +2464,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -2493,7 +2487,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20501286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20501286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -2606,27 +2600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/constantes/Utilidades.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="88" column="5" selection-start-line="81" selection-start-column="4" selection-end-line="88" selection-end-column="5" />
-          <folding>
-            <element signature="e#1707#1852#0" expanded="true" />
-            <element signature="e#1851#1852#0" expanded="true" />
-            <element signature="e#1979#2134#0" expanded="true" />
-            <element signature="e#2133#2134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_ciclo_detalle.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -2651,14 +2624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/proveedor/CicloProveedor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="55" column="105" selection-start-line="55" selection-start-column="105" selection-end-line="55" selection-end-column="105" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/ciclo/CicloActualizacionActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2295">
@@ -2668,6 +2633,43 @@
             <element signature="e#2757#2758#0" expanded="true" />
             <element signature="e#2894#3039#0" expanded="true" />
             <element signature="e#3038#3039#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/constantes/G.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/constantes/Utilidades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/proveedor/CicloProveedor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="55" column="105" selection-start-line="55" selection-start-column="105" selection-end-line="55" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tiburcio/ejemploproveedorcontenido/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <element signature="e#1707#1852#0" expanded="true" />
+            <element signature="e#1851#1852#0" expanded="true" />
+            <element signature="e#1979#2134#0" expanded="true" />
+            <element signature="e#2133#2134#0" expanded="true" />
           </folding>
         </state>
       </provider>

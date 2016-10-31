@@ -72,7 +72,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     void elegirFotoDeGaleria(){
-        //Intent intent = new Intent(Intent.ACTION_PICK, MediaStore.Images.Media.INTERNAL_CONTENT_URI);
         Intent intent = new Intent(Intent.ACTION_GET_CONTENT);
         intent.addCategory(Intent.CATEGORY_OPENABLE);
         intent.setType("image/*");
@@ -124,24 +123,5 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
-
-/*    private File createImageFile() throws IOException {
-        // Create an image file name
-        String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
-        String imageFileName = "JPEG_" + timeStamp + "_";
-        File storageDir = getExternalFilesDir(Environment.DIRECTORY_PICTURES);
-        //File storageDir = getFilesDir();
-        //File storageDir = Environment.getExternalStorageDirectory();
-        File image = File.createTempFile(
-                imageFileName,  // prefix
-                ".jpg",         // suffix
-                storageDir      // directory
-        );
-
-        // Save a file: path for use with ACTION_VIEW intents
-        //mCurrentPhotoPath = "file:" + image.getAbsolutePath();
-        return image;
-    }
-*/
 
 }
